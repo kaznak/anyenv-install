@@ -1,1 +1,1 @@
-install_env https://github.com/tfutils/tfenv.git
+install_env git@github.com:kaznak/tfenv.git
