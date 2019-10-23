@@ -1,1 +1,2 @@
 install_env git@github.com:kaznak/tfenv.git
+install_plugin terraform-build https://github.com/kaznak/terraform-build.git
